@@ -1,0 +1,21 @@
+{
+  "name": "cardfast",
+  "version": "1.0.0",
+  "description": "api de cartoes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cartao",
+    "cartoes"
+  ],
+  "author": "Clayton Matos",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "consign": "^0.1.5",
+    "express": "^4.15.3",
+    "express-validator": "^3.2.0"
+  }
+}
